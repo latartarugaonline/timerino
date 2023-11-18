@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace 'it.tartaruga.timerino'
-    compileSdk 33
+    compileSdk 34
 
     dataBinding {
         enabled = true
@@ -13,7 +13,7 @@ android {
     defaultConfig {
         applicationId "it.tartaruga.timerino"
         minSdk 26
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
